@@ -1,7 +1,7 @@
 ![KVIrc logo](https://raw.githubusercontent.com/kvirc/KVIrc/master/data/icons/128x128/kvirc.png "KVIrc - The visual IRC client for the masses!")
 
 ## About
-Welcome to the official Git repository for KVIrc scripts.  
+Welcome to the official Git repository for KVIrc scripts.
 Share your KVIrc scripts with your fellow users.
 
 We are looking for script authors to submit fresh new scripts compatible with KVIrc **4.3.2** and to revamp existing scripts and submit them back here.
@@ -14,7 +14,7 @@ The scripts can be in form of addons or standalone format in their own directory
 
 ### Licensing
 
-All works submitted to KVIrc scripts repository should contain an accompanying licence.  
+All works submitted to KVIrc scripts repository should contain an accompanying licence.
 The scripts in this repository are migrated from old SVN repository and were licensed under **GPL**
 
 As the author of the work, you have complete freedom to choose what licensing model which
@@ -27,7 +27,7 @@ you understand that the default **[GPLv2](http://opensource.org/licenses/GPL-2.0
 
 KVIrc version compatibility should be noted prominently where applicable.
 
-Read [porting scripts to KVIrc 4.x](https://github.com/kvirc/KVIrc/wiki/Porting-scripts-to-Kvirc4) for more information.
+Read [porting scripts to KVIrc 4](https://github.com/kvirc/KVIrc/wiki/Porting-scripts-to-KVIrc-4) for more information.
 
 ### Support
 
